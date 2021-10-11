@@ -30,5 +30,4 @@ I am currently working as a software engineer. I like Datastructures & Algorithm
 <a href="https://www.codechef.com/users/harish_49">🔗Codechef</a> &nbsp;
 <a href="https://www.linkedin.com/in/harish-vemula-40a980153/">🔗Linkedin</a>
 <br/>
-![](https://komarev.com/ghpvc/?username=harish49&color=green)
 
